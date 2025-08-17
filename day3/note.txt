@@ -6,3 +6,6 @@ range(10) #0-9
 rage(2,10) #2-9
 range(2,100,5) # 2 to 99 ( skip of 5)
 range (90,10,-4)
+  
+
+i am viju
