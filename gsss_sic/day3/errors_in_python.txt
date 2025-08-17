@@ -1,0 +1,5 @@
+Syntax Errors: 
+Name Error : arrive if var name is not defined 
+index error : if we give index of out of range 
+Value Error : when we try to cast one value to another value 
+       ex- if u try to convert letters into num(int).

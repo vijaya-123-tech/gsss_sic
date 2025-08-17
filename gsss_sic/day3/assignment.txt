@@ -1,0 +1,2 @@
+learn outputformatting
+in pyhton why we dont have increement and decrement 
