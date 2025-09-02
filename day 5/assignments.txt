@@ -1,0 +1,2 @@
+why we wont get index error in slicing  
+implement a function that is similar(mimic) to find() method of string class 

@@ -1,0 +1,11 @@
+EmpID,Name,Department,JobTitle,Salary,JoiningDate,YearsOfService
+E001,Alice Wong,Hr,HR Manager,60000,2019-03-15,6
+E002,Bob Smith,It,Software Engineer,75000,2020-06-20,5
+E003,Carol Lee,Finance,Accountant,55000,2018-11-12,7
+E004,David Kim,It,Data Scientist,95000,2021-02-10,4
+E005,Eva Brown,Sales,Sales Executive,50000,2019-07-01,6
+E006,Frank White,Finance,Financial Analyst,67000,2020-01-25,5
+E007,Grace Green,It,Software Engineer,77000,2019-08-14,6
+E008,Henry Adams,Hr,Recruiter,45000,2021-04-01,4
+E009,Ivy Chen,Sales,Sales Executive,52000,2020-09-12,5
+E010,Jack Black,It,System Administrator,68000,2018-05-19,7

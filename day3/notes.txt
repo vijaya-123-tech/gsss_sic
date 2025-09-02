@@ -1,4 +1,3 @@
-this is the sic note (python)
 range function in Python:
 
 range(10)
@@ -103,3 +102,4 @@ Chapter3 test is given
 
 Repo Link for DSA and Problem Solving
 https://github.com/gmaheswaranmca/au-guvi
+

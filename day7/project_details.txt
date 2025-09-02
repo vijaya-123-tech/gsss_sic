@@ -1,0 +1,55 @@
+Project Title
+Project decription (few sentences or 4 to 6 lines)
+(Team Member details)
+Index
+Detailed explanation (Overview -> Each use-case explanation)
+Optionally (Algorithms)
+UML diagrams (use-case, activity, data-flow)
+Front-end (interface) design
+Code
+Explanation of the Code
+Screenshots of the O/P with explanation
+Closure (Bibliography)
+-------------------------------------------------------------
+PROJECT GITHUB LINK
+https://github.com/Faheem-Ahmed199/sic_c-p_pu
+https://github.com/SumeethK28/SIC_June2025
+https://github.com/Guru-0110/sic_pu_june
+https://github.com/AdityaNair-11/sic_pu_june25
+https://github.com/Ritin001/sic_pu_june25
+https://github.com/Anshikasingh-20/sic_pu_june25
+https://github.com/Rakshitha-Umesh-Patil/sic_pu_june25
+https://github.com/sinchanar-17/samsung_python.git
+https://github.com/abhyarastogi/sic_pu_june25
+https://github.com/RANJITHA1706/SAMSUNG_python-training-June-2025.git
+https://github.com/pallavigowda12/sic_pu_june25
+https://github.com/NayanaKrishnamurthy/sic_pu_june25
+https://github.com/deeku46/sic_pu_june25
+https://github.com/ManamMythri/sic_pu_june25
+https://github.com/Ambika-hash/sic-
+https://github.com/Tejas-prakash/sic-python-PU
+https://github.com/Priyo13o4/Priyo-SIC.git
+https://github.com/TharunKrishnaP/SIC_PU_June2025
+
+https://github.com/mahi-ayub/SIC_pu_june25
+https://github.com/jonnagiri12/sic_pu_june25
+https://github.com/JoshuaDotM/SIC-T2
+https://github.com/Manas-8/SIC_PU_P/
+https://github.com/sritva/sic_pu_june25
+https://github.com/MOHAMMEDBILAL-007/samsung_class.git
+https://github.com/abhijay3003/sic_pu_june25
+
+https://github.com/kundan-90/samsung-training
+https://github.com/pranee-404/sic_py_cp
+https://github.com/Darshan-Acharya/sic_pu_june25
+https://github.com/jonnagiri12/sic_pu_june25
+https://github.com/Kavya-1507/sic_pu_ka7
+https://github.com/Khushiiiii22/sic_py_training.git
+https://github.com/13SunnySingh12/SIC_PU_June2025
+https://github.com/snehamurali-07/SIC_PU_June2025
+https://github.com/mrsainikhil/SIC_PU_20231CSE0342
+https://github.com/akshat-goat/SIC_PU_Practise
+https://github.com/Loknath816/sic_pu_june25
+https://github.com/simha05/sic_pu_june25
+https://github.com/KushiGirish/sic_pu_june25
+-----------------------------------------------------------

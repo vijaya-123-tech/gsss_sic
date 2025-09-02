@@ -1,0 +1,26 @@
+list slicing :
+capital=['panjim','bubaneshwar','guwahatti','aizwal','imphal','agartala'
+,
+'ganktok','kohima','itanagar','shilong']
+
+print(capital)  # by default al elem will print by defaultINCREEMENT OF 1
+print(capital[:]) # by default al elem will print
+print(capital[::]) # by default al elem will print
+print(capital[1:7]) INCLUDED 1 AND EXCLUDED 7 ( 1-6 IT WILL PRINT )
+print(capital[2:8:2]) 
+print(capital[10])  # there is no 11th elem in list (such error pvm is going handle)
+print(capital[1:17])   in slicing we wont get index error 
+
+ print(capital[3:2])  # we will get empty list 
+ print(capital[3:3])  #empty
+ print(capital[:12:-1])  # aizwal  (-1 - reverse)
+ print(capital[::3] # starts from begginning to end with jump  of 3 )
+ print(capital[-1]) # last elem in list
+ print(capital[-10]) # will print 1st elem (panjim)
+ print(capital[-11]) #index error (something which it cannot do so )
+print(capital[::-1])  from last elem it will print 
+print(capital[:-15:-1]) #entire list will print reversely till the lat elem 10 / no index error in slicing
+print(capital[-15:-1:1]) # prints -=['panjim','bubaneshwar','guwahatti','aizwal','imphal','agartala'
+'ganktok','kohima','itanagar']
+
+if we try to find empty in a string , then it will give 0.

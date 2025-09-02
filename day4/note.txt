@@ -1,0 +1,75 @@
+input() - is the function which also return the string inside it ans also ask the user to put input 
+English speech - ( sir repo , day4 - note.txt)
+sadguru in law college 
+jath malani(lawyer)
+p chidambaram
+jayalalitha interview
+
+scanf("%s[@#]",str)   // it means till u give # ate the end of ur input , its keep on allowing u to input 
+
+list in python
+list as a DS
+what is DS?
+birth of a DS like listuses
+pros and cons
+alternatives
+beyond list
+
+----------------------------------------
+List - collection of items / data
+all the items are stores in contigious memor locations that is if u any 2 consecutive elements , then there is no gap between them .
+in python : no need to be give same data type as c/c++
+
+what is DS?
+    used for efficiency 
+             space and time complexity
+             simplicity (easy to understand)
+    ds is the storing the data in specific way 
+
+address :
+        address+num=adreess
+        adreess-num=address
+        adreess+address=num (no.of elem bw the two address)
+the look up( accecing element in an array/list) is one unit time .
+thus the efficiency of accessing an elem in an array is O(1).
+
+if size of the arrray then shortage and empty space happens 
+sol: dynamic memory allocation 
+
+list is class in python 
+we create objects(s) out of a class 
+n=10
+here n is num . its val is 10 & it has no any units .
+set() -setting the values  and get()- are mutaters (modifiers)
+encapsulation means combine all the classes 
+abstraction - after encapsulated they provide interface for users to use the apk
+
+class NRIAccount: public Account{
+    private:
+          string passportNumber;         // c++ 
+}
+
+class NRIAccount(Account):
+    def __init__(self):         //python
+        passportNumber=""
+
+polymorphism - one problem multiple solution
+
+
+lists:
+
+create lists in diff ways :
+name=[]
+names=list()
+name=['umesh','viju']   //name is a list obj
+other_names=list(names)
+
+list methods (functions):
+    list() #createing + initializing
+    append() # adding an elem at last 
+    pop()  # removina a last elem also it returns 
+    insert()  #insert an elem into the specific index
+    remove()
+    sort()
+    reverse()
+    extend() # 

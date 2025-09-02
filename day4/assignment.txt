@@ -1,0 +1,1 @@
+learn how scanf("%[@#]d") is works in python

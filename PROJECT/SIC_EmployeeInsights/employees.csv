@@ -1,0 +1,51 @@
+EmpID,Name,Department,JobTitle,Salary,JoiningDate
+E001,Alice Wong,hr,HR Manager,60000,2019-03-15
+E002,Bob Smith,IT,Software Engineer,75000,2020-06-20
+E003,Carol Lee,Finance,Accountant,55000,2018-11-12
+E004,David Kim,IT,Data Scientist,95000,2021-02-10
+E005,Eva Brown,Sales,Sales Executive,50000,2019-07-01
+E006,Frank White,Finance,Financial Analyst,67000,2020-01-25
+E007,Grace Green,IT,Software Engineer,77000,2019-08-14
+E008,Henry Adams,HR,Recruiter,45000,2021-04-01
+E009,Ivy Chen,Sales,Sales Executive,52000,2020-09-12
+E010,Jack Black,IT,System Administrator,68000,2018-05-19
+E011,Karen Davis,Finance,Accountant,56000,2019-11-07
+E012,Liam Johnson,IT,Data Scientist,98000,2021-06-30
+E013,Mia Lopez,HR,HR Executive,48000,2020-02-28
+E014,Noah Brown,Sales,Sales Manager,82000,2018-12-05
+E015,Olivia Wilson,Finance,Financial Analyst,64000,2019-07-23
+E016,Paul Harris,IT,Software Engineer,73000,2021-08-10
+E017,Quinn Taylor,HR,Recruiter,47000,2019-04-17
+E018,Ryan Clark,Sales,Sales Executive,51000,2021-09-01
+E019,Sophia Lewis,Finance,Accountant,59000,2020-03-11
+E020,Tom Hall,IT,Software Engineer,76000,2018-10-30
+E021,Ursula Scott,Sales,Sales Executive,54000,2019-06-12
+E022,Vincent King,Finance,Senior Accountant,72000,2021-01-19
+E023,Wendy Lee,HR,HR Manager,61000,2020-05-05
+E024,Xavier Young,IT,Data Scientist,97000,2019-08-28
+E025,Yara Patel,Finance,Financial Analyst,66000,2018-11-15
+E026,Zach Miller,Sales,Sales Manager,83000,2021-07-09
+E027,Aaron Evans,IT,System Administrator,70000,2020-04-21
+E028,Bella Turner,Finance,Accountant,58000,2019-02-16
+E029,Carlos Gomez,Sales,Sales Executive,53000,2020-10-20
+E030,Diana Ross,HR,HR Executive,49000,2018-09-25
+E031,Ethan Carter,IT,Software Engineer,78000,2021-03-14
+E032,Fiona Brooks,Finance,Senior Accountant,71000,2019-06-06
+E033,George Hill,Sales,Sales Executive,55000,2021-11-22
+E034,Hannah Moore,HR,Recruiter,46000,2020-07-18
+E035,Ian Thomas,IT,Software Engineer,74000,2018-12-10
+E036,Julia Adams,Finance,Financial Analyst,68000,2021-08-30
+E037,Kyle Martin,Sales,Sales Executive,50000,2019-05-13
+E038,Lily Perez,HR,HR Manager,62000,2018-06-27
+E039,Marcus Allen,IT,Data Scientist,99000,2021-10-02
+E040,Nina White,Finance,Accountant,57000,2020-09-17
+E041,Omar Rivera,Sales,Sales Manager,81000,2019-03-20
+E042,Pamela Scott,IT,System Administrator,69000,2018-07-08
+E043,Robert Green,Finance,Senior Accountant,73000,2021-12-11
+E044,Sara Clark,HR,Recruiter,48000,2020-11-29
+E045,Tim Hughes,IT,Software Engineer,75000,2019-01-04
+E046,Umar Shah,Finance,Financial Analyst,66000,2021-05-21
+E047,Vanessa Cole,Sales,Sales Executive,52000,2018-08-15
+E048,William Baker,HR,HR Executive,50000,2021-09-09
+E049,Ximena Diaz,IT,Data Scientist,96000,2019-10-26
+E050,Yusuf Khan,Finance,Senior Accountant,74000,2020-12-14
